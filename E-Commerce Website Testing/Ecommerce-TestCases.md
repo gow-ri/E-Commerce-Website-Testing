@@ -1,5 +1,3 @@
-https://docs.google.com/spreadsheets/d/1w5oO7cI7Al-0ptXG7vR2X3dXUaIyNxSfpUf2I8iUxqc/edit?usp=drive_link
-
 
 | Test Scenario ID  | Test Case ID | Test Case Title                                                                                                                                                                                                            | Pre-requities | Test Steps | Test Data | Expected Result | Actual Result | Priority | Result | Comments |
 |-------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|------------|-----------|-----------------|---------------|----------|--------|----------|
