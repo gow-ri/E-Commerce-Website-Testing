@@ -1,1 +1,5 @@
-https://docs.google.com/spreadsheets/d/1TGnvMhSQw-YIXyU3b7zMH304SUISDkstJt2wIym4DIc/edit?usp=sharing
+| **Test Scenario ID** | **Test Scenario Title**        | **Priority** | **Number Of Test Cases** |
+|:--------------------:|:------------------------------:|:------------:|:-------------------------:|
+| TS_ER_001            | User Registration Process      | P1           | 22                        |
+| TS_ER_002            | Login Functionality            | P1           |                           |
+|                      |                                |              |                           |
