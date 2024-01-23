@@ -2,8 +2,6 @@
 
 I undertook a personal QA project to test an e-commerce website, simulating real-world scenarios and applying fundamental software testing principles. The goal was to gain hands-on experience in software testing and create a portfolio piece to showcase my abilities to potential employers.
 
-https://docs.google.com/spreadsheets/d/1Qf2dncjn8ccuJTREpnCUBOIwX4g3GuF2rd4H2rL_WYY/edit?usp=sharing
-
 - Created a set of detailed test cases covering various scenarios, including positive and negative testing. Test cases encompassed functional, usability, and compatibility testing aspects.
 - Conducted extensive manual testing to evaluate the website's functionality, user interface, and responsiveness across different browsers and devices.
 - Developed and implemented automated test scripts using selenium, testng framework to expedite repetitive testing tasks, such as login and checkout processes.
