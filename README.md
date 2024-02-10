@@ -8,3 +8,16 @@ I undertook a personal QA project to test an e-commerce website, simulating real
 - Tested the website's compatibility across major web browsers (e.g., Chrome, Firefox, Safari) to ensure a consistent user experience.
 - Evaluated the website's user-friendliness by assessing the ease of navigation, layout, and overall user experience.
 
+## Repository Link: 
+
+https://github.com/ergowri/E-Commerce-Website-Testing
+
+
+
+## Skills
+
+
+
+
+
+
