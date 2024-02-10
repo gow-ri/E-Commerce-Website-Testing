@@ -16,6 +16,9 @@
 
 https://github.com/ergowri/E-Commerce-Website-Testing
 
+## E-Commerce Website Testing - Test Cases
+
+https://docs.google.com/spreadsheets/d/1f1jYsqds71sYGjSKo3BT1UrLkH8-ThTGpTL9djGhmgk/edit?usp=sharing
 
 
 ## Skills
